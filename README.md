@@ -1,6 +1,5 @@
 # Fonts-Collections
 Any project fonts collection, all collection of 31 fonts for your personal use
-# Any Project Fonts
 
 Yup, I couldn't find a better name, feel free to use the project for whatever puprose you may like
 These are my personal collection fonts, that I use it for my personal use case only.
