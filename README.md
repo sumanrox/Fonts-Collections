@@ -16,7 +16,7 @@ Disclaimer : All credit goes to the authors of these fonts, I acknowledge that I
 | Avenir-Lt-Std      | Litsans      | El-Messiri            | Ranade-Complete            |
 | Begum-Sans         | Megabyte     | Endoell-Regular       | SF-Fonts-Apple             |
 | Boska-Complete     | Montserrat   | Formula-Condensed     | Stardom                    |
-| Circular-Abstracts | Nerd-Fonts   | Gilroy                | Univers-Lt                 |
+| Circular-Abstracts | 7-Nerd-Fonts | Gilroy                | Univers-Lt                 |
 | Dank-Mono          | Nexa-Bold    | Google-Sans           | Zetafonts-Aristotelica-Pro |
 | Domaine-Sans-Fine  | OperatorMono | Helvetica Neue LT Std | Helvetica Neue             |
 
